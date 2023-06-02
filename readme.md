@@ -1,4 +1,4 @@
-# [NLP] Chatbot
+# Chatbot
 > Automatic message reply by applying Supervised learning.
 
 ![](header.png)
